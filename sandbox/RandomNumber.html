@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>RandomNumber</title>
+    <style>
+        body {
+            background-color: lightblue;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+</body>
+
+<script>
+    nbEssais = 0
+    nombre = Math.floor(Math.random() * 100)
+
+    alert("Devine a quel nombre je pense...")
+
+    do {
+        reponse = prompt("Entrez un nombre : ")
+        if (reponse < nombre) {
+            alert("Plus grand")
+        } else if (reponse > nombre) {
+            alert("Plus petit")
+        }
+        nbEssais++
+    } while (reponse != nombre)
+
+    document.write("<h2>Bravo tu a gagné !!<br>La réponse était " + nombre + "<br>Tu l'as trouvée en " + nbEssais + " essais !</h2>")
+
+
+</script>
+</html>
