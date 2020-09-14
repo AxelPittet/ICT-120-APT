@@ -14,6 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -30,7 +32,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Axel.PITTET\Documents\GitHub\ICT-120-APT\Base\img" />
+      <recent name="C:\Users\Axel.PITTET\Documents\GitHub\ICT-120-APT\Sandbox\Boats\js" />
+      <recent name="C:\Users\Axel.PITTET\Documents\GitHub\ICT-120-APT\sandbox\RandomNumber" />
+      <recent name="C:\Users\Axel.PITTET\Documents\GitHub\ICT-120-APT\sandbox\Bateaux" />
+      <recent name="C:\Users\Axel.PITTET\Documents\GitHub\ICT-120-APT\sandbox\Start" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -41,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599468868610</updated>
       <workItem from="1599468870063" duration="4581000" />
+      <workItem from="1600072892888" duration="6158000" />
     </task>
     <servers />
   </component>
@@ -48,9 +61,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="623" y="225" key="search.everywhere.popup" timestamp="1599471339808">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600075583087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599471339808" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600075583087" />
   </component>
 </project>
