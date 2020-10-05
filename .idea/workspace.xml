@@ -13,15 +13,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1hAzpaOeunOL1ttdKwRgKNe8AcD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +32,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Voyage" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -44,6 +45,11 @@
       <recent name="C:\Users\Axel.PITTET\Documents\GitHub\ICT-120-APT\sandbox\Start" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$/Voyage" port="8888">
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,6 +60,9 @@
       <updated>1599468868610</updated>
       <workItem from="1599468870063" duration="4581000" />
       <workItem from="1600072892888" duration="6158000" />
+      <workItem from="1601281695954" duration="1508000" />
+      <workItem from="1601283468034" duration="4638000" />
+      <workItem from="1601888010263" duration="4840000" />
     </task>
     <servers />
   </component>
@@ -61,6 +70,46 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="540" y="193" key="#CLI_Interpreters" timestamp="1601283503961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="193" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1601283503961" />
+    <state x="667" y="181" key="#PHP" timestamp="1601283506726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="181" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1601283506726" />
+    <state x="464" y="126" width="1092" height="805" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601283525175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="126" width="1092" height="805" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601283525175" />
+    <state x="740" y="331" key="FileChooserDialogImpl" timestamp="1601283488184">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="331" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601283488184" />
+    <state width="1877" height="34" key="GridCell.Tab.0.bottom" timestamp="1601892855371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="34" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601892855371" />
+    <state width="1877" height="34" key="GridCell.Tab.0.center" timestamp="1601892855371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="34" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601892855371" />
+    <state width="1877" height="34" key="GridCell.Tab.0.left" timestamp="1601892855371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="34" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601892855371" />
+    <state width="1877" height="34" key="GridCell.Tab.0.right" timestamp="1601892855371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="34" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601892855371" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601287638222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601287638222" />
+    <state x="1096" y="244" key="run.anything.popup" timestamp="1601889982392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601889982392" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600075583087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

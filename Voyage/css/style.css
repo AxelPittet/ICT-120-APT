@@ -1,0 +1,23 @@
+.h1Title {
+    position: absolute;
+    text-align: center;
+    margin-left: auto;
+}
+
+#divMenu {
+    background-image: url('../img/ImageFond.jpg');
+    margin-left: auto;
+    margin-right: auto;
+    height: 253px;
+    width: 1020px;
+}
+
+.hidden {
+    display: none;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
