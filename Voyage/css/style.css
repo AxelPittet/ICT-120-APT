@@ -1,5 +1,4 @@
-.h1Title {
-    position: absolute;
+#h1Title {
     text-align: center;
     margin-left: auto;
 }
@@ -20,4 +19,9 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+
+#divForm {
+    margin: auto;
+    width: 1020px;
 }

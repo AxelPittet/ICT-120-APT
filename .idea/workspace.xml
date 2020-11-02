@@ -38,11 +38,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Axel.PITTET\Documents\GitHub\ICT-120-APT\Voyage\img\" />
       <recent name="C:\Users\Axel.PITTET\Documents\GitHub\ICT-120-APT\Base\img" />
       <recent name="C:\Users\Axel.PITTET\Documents\GitHub\ICT-120-APT\Sandbox\Boats\js" />
       <recent name="C:\Users\Axel.PITTET\Documents\GitHub\ICT-120-APT\sandbox\RandomNumber" />
       <recent name="C:\Users\Axel.PITTET\Documents\GitHub\ICT-120-APT\sandbox\Bateaux" />
-      <recent name="C:\Users\Axel.PITTET\Documents\GitHub\ICT-120-APT\sandbox\Start" />
     </key>
   </component>
   <component name="RunManager">
@@ -63,6 +63,8 @@
       <workItem from="1601281695954" duration="1508000" />
       <workItem from="1601283468034" duration="4638000" />
       <workItem from="1601888010263" duration="4840000" />
+      <workItem from="1603705327537" duration="5666000" />
+      <workItem from="1604310285327" duration="3680000" />
     </task>
     <servers />
   </component>
@@ -86,22 +88,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="331" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601283488184" />
-    <state width="1877" height="34" key="GridCell.Tab.0.bottom" timestamp="1601892855371">
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom" timestamp="1604311908539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601892855371" />
-    <state width="1877" height="34" key="GridCell.Tab.0.center" timestamp="1601892855371">
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604311908539" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center" timestamp="1604311908539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601892855371" />
-    <state width="1877" height="34" key="GridCell.Tab.0.left" timestamp="1601892855371">
+    <state width="1877" height="2" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604311908539" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left" timestamp="1604311908539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601892855371" />
-    <state width="1877" height="34" key="GridCell.Tab.0.right" timestamp="1601892855371">
+    <state width="1877" height="2" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604311908539" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right" timestamp="1604311908539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601892855371" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604311908539" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601287638222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
