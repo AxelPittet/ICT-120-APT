@@ -1,6 +1,4 @@
-txtHotelData00.value = 'gamma'
-txtHotelData02.value = '1000'
-txtHotelData03.value = 'Lausanne CT'
+txtHotelData00.value = 'alpha'
 
     // Load image tags with the name in the input field
     document.querySelectorAll(".actimg").forEach(img => {
